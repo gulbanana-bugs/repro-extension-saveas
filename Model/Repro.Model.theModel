@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModelFile>
+  <Version>10</Version>
+  <History>
+    <CreateModelV1 Namespace="Repro.Model" ShouldEnforceNonNullability="true" />
+    <ChangeModelV1 UseInstantForAudit="true" UseAuditV2="true" />
+    <CreateEntityV2 ID="b76ce742-d17f-41a4-a474-43655d9d6c39" Name="Entity" IsTopLevel="true" />
+    <CreateAttributeV5 ID="3e975623-831a-421e-9d29-11c2f18cbe78" Entity="b76ce742-d17f-41a4-a474-43655d9d6c39" Section="b76ce742-d17f-41a4-a474-43655d9d6c39" Name="Attribute" Type="Integer" IsRequired="false" />
+    <NamedVersionV2 Sequence="1" Name="0.0.1" />
+  </History>
+  <FeatureVersions />
+</ModelFile>
